@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/h2HawEaza-IAAAAC/web-development-web.gif" height=325px width=3500px/>
+<img src="https://media.tenor.com/h2HawEaza-IAAAAC/web-development-web.gif" height=325px width=3800px/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sindhu!;" />
 </h1>
