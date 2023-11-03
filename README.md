@@ -1,9 +1,9 @@
-<img src="https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg" height=250px width=980px/>
+<img src="https://media.tenor.com/h2HawEaza-IAAAAC/web-development-web.gif" height=250px width=980px/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sindhu!;" />
 </h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img src="https://media.tenor.com/h2HawEaza-IAAAAC/web-development-web.gif" align="right" width=400px height=400px/>
+<img src="https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg" align="right"  width=400px height=400px/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sindhu-027&label=Profile%20views&color=0e75b6&style=flat" alt="sindhu-027" /> </p>
 
