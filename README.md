@@ -1,29 +1,44 @@
-<img src="https://media.tenor.com/h2HawEaza-IAAAAC/web-development-web.gif" height="325px" width="100%"/>
+
+
+
+<img src="https://media.tenor.com/h2HawEaza-IAAAAC/web-development-web.gif" width="100%" height="325px"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sindhu!;+Software+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sindhu!;+Full+Stack+Developer;" />
 </h1>
 
 <h3 align="center">
-Passionate Software Developer focused on building secure, scalable, and user-friendly web applications.
+Full Stack Developer focused on secure and scalable web applications
 </h3>
 
-<img src="https://media.tenor.com/kcINTPNY0z0AAAAC/web-development-web.gif" align="right" width="400px" height="300px"/>
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sindhu-027&label=Profile%20views&color=0e75b6&style=flat" alt="sindhu-027" />
+  <img src="https://komarev.com/ghpvc/?username=sindhu-027&label=Profile%20Views&color=0e75b6&style=flat" alt="sindhu-027" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Software Development Projects**
-- 🌱 Currently exploring **Advanced Backend Development**
-- 👨‍💻 Portfolio: [sinchu-portfolio.vercel.app](https://sinchu-portfolio.vercel.app/)
+<table>
+<tr>
+<td width="65%">
+
+- 🔭 Currently working on **Full Stack Development Projects**
+- 🌱 Currently exploring **Spring Boot, Docker & Advanced Backend Development**
+- 👨‍💻 Portfolio: [Visit My Portfolio](https://sinchu-portfolio.vercel.app/)
 - 💬 Ask me about **React, Angular, Node.js, JWT & OWASP Security**
-- 📫 Reach me at: **ssindhu02042003@gmail.com**
+- 📫 Reach me at: **ssindhu2502@gmail.com**
 - ⚡ Interested in **Application Security & Scalable Web Systems**
+
+</td>
+
+<td width="35%">
+
+<img src="https://media.tenor.com/kcINTPNY0z0AAAAC/web-development-web.gif" width="250px"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,11 +92,11 @@ Passionate Software Developer focused on building secure, scalable, and user-fri
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-- JWT Authentication
-- OWASP Top 10
-- REST APIs
-- Agile Methodology
-- Cloud Computing Basics
+- JWT Authentication  
+- OWASP Top 10  
+- REST APIs  
+- Agile Methodology  
+- Cloud Computing Basics  
 
 ---
 
@@ -95,20 +110,18 @@ Agile Sprint Management System built using Angular, ASP.NET Core Web API & Postg
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sindhu-027&show_icons=true&locale=en&layout=compact" alt="sindhu-027" />
-</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sindhu-027&show_icons=true&cache_seconds=1800" height="180em"/>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sindhu-027&show_icons=true&locale=en" alt="sindhu-027" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhu-027&layout=compact&cache_seconds=1800" height="180em"/>
 </p>
-
-<br/><br/><br/><br/><br/><br/>
 
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✨;+Let's+build+something+great+together!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+for+visiting!+✨;+Let's+build+something+great+together!;" />
 </h3>
