@@ -1,14 +1,15 @@
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+for+visiting!+✨;+Let's+build+something+great+together!;" />  
+</h3>
 
 
 <img src="https://media.tenor.com/h2HawEaza-IAAAAC/web-development-web.gif" width="100%" height="325px"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sindhu!;+Full+Stack+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sindhu!;+Software+Developer;" />
 </h1>
 
 <h3 align="center">
-Full Stack Developer focused on secure and scalable web applications
+Software Developer focused on secure and scalable web applications
 </h3>
 
 <p align="left">
@@ -23,8 +24,8 @@ Full Stack Developer focused on secure and scalable web applications
 <tr>
 <td width="65%">
 
-- 🔭 Currently working on **Full Stack Development Projects**
-- 🌱 Currently exploring **Spring Boot, Docker & Advanced Backend Development**
+- 🔭 Currently working on **Software Development Projects**
+- 🌱 Currently exploring **Advanced Backend Development**
 - 👨‍💻 Portfolio: [Visit My Portfolio](https://sinchu-portfolio.vercel.app/)
 - 💬 Ask me about **React, Angular, Node.js, JWT & OWASP Security**
 - 📫 Reach me at: **ssindhu2502@gmail.com**
@@ -41,6 +42,15 @@ Full Stack Developer focused on secure and scalable web applications
 </table>
 
 ---
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
 
 ## 💼 Experience
 
@@ -54,8 +64,9 @@ Full Stack Developer focused on secure and scalable web applications
 - Implemented JWT verification and improved module security
 
 ---
+---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 <p>
@@ -92,11 +103,12 @@ Full Stack Developer focused on secure and scalable web applications
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-- JWT Authentication  
-- OWASP Top 10  
-- REST APIs  
-- Agile Methodology  
-- Cloud Computing Basics  
+- JWT Authentication
+- OWASP Top 10
+- REST APIs
+- Agile Methodology
+- Cloud Computing Basics
+
 
 ---
 
@@ -108,16 +120,16 @@ Civic Issue Reporting & Tracking System built using MERN Stack with secure authe
 ### 📌 Scrum Flow
 Agile Sprint Management System built using Angular, ASP.NET Core Web API & PostgreSQL.
 
+## 💡 Quote
+
+> "Building secure and scalable applications with clean user experiences."
+
 ---
 
-
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sindhu-027&show_icons=true&cache_seconds=1800" height="180em"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhu-027&layout=compact&cache_seconds=1800" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=sindhu-027&theme=dark" />
 </p>
 
 ---
