@@ -20,7 +20,7 @@ Software Developer focused on secure and scalable web applications
 
 ## 🚀 About Me
 
-<img align="right" src="img1.png" width="250px" height="250px" alt="coding"/>
+<img align="right" src="img1.png" width="250px" height="250px" hspace="20" alt="coding"/>
 
 - 🔭 Currently working on **Software Development Projects**
 - 🌱 Currently exploring **Advanced Backend Development**
