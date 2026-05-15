@@ -20,51 +20,23 @@ Software Developer focused on secure and scalable web applications
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="70%">
+<img align="right" src="img1.png" width="250px" height="250px" alt="coding"/>
 
 - 🔭 Currently working on **Software Development Projects**
 - 🌱 Currently exploring **Advanced Backend Development**
 - 👨‍💻 Portfolio: [Visit My Portfolio](https://sinchu-portfolio.vercel.app/)
 - 💬 Ask me about **React, Angular, Node.js, JWT & OWASP Security**
-- 📫 Reach me at: **ssindhu2502@gmail.com**
+- 📫 Reach me at: **ssindhu02042003@gmail.com**
 - ⚡ Interested in **Application Security & Scalable Web Systems**
 
-</td>
-
-<td width="30%">
-
-<img src="img1.png" width="300px" style="border-radius:15px; box-shadow: 0 0 20px #ff00ff;"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 🚀 About Me
-
-<div align="center">
-
-<img align="right" src="img1.png" width="300px" style="border-radius:20px;" />
-
-</div>
-
-- 🔭 Currently working on **Software Development Projects**
-- 🌱 Currently exploring **Advanced Backend Development**
-- 👨‍💻 Portfolio: [Visit My Portfolio](https://sinchu-portfolio.vercel.app/)
-- 💬 Ask me about **React, Angular, Node.js, JWT & OWASP Security**
-- 📫 Reach me at: **ssindhu2502@gmail.com**
-- ⚡ Interested in **Application Security & Scalable Web Systems**
-
-<br><br><br><br><br><br><br><br><br>
-
----
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/sindhu-sekar" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
