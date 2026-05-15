@@ -22,7 +22,7 @@ Software Developer focused on secure and scalable web applications
 
 <table>
 <tr>
-<td width="65%">
+<td width="70%">
 
 - 🔭 Currently working on **Software Development Projects**
 - 🌱 Currently exploring **Advanced Backend Development**
@@ -33,13 +33,32 @@ Software Developer focused on secure and scalable web applications
 
 </td>
 
-<td width="35%">
+<td width="30%">
 
-<img src="https://media.tenor.com/kcINTPNY0z0AAAAC/web-development-web.gif" width="250px"/>
+<img src="img1.png" width="300px" style="border-radius:15px; box-shadow: 0 0 20px #ff00ff;"/>
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+
+<img align="right" src="img1.png" width="300px" style="border-radius:20px;" />
+
+</div>
+
+- 🔭 Currently working on **Software Development Projects**
+- 🌱 Currently exploring **Advanced Backend Development**
+- 👨‍💻 Portfolio: [Visit My Portfolio](https://sinchu-portfolio.vercel.app/)
+- 💬 Ask me about **React, Angular, Node.js, JWT & OWASP Security**
+- 📫 Reach me at: **ssindhu2502@gmail.com**
+- ⚡ Interested in **Application Security & Scalable Web Systems**
+
+<br><br><br><br><br><br><br><br><br>
 
 ---
 ## 🌐 Connect With Me
